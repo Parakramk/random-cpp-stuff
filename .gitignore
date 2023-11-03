@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+
+# OUTPUT Directory and Vscode Settings
+**/output/
+**/.vscode/
